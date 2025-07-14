@@ -39,7 +39,7 @@ pip install django
 1. **Clone the project reposiotry** to your local machine  
   
     ```bash
-    git clone https://github.com/IliyanGeorgiev87/SquishURL
+    git clone https://github.com/GeorgievIliyan/SquishURL
     ```
 2. **Create a virtual environment**: It’s good practice to use a virtual environment to manage your project’s dependencies. Run the following commands:
   
@@ -61,7 +61,7 @@ pip install django
     ```bash
     cd url_shortener
     ```
-5. **Run migrations** *if needed*
+5. **Run migrations** *(if needed)*
     ```bash
     python manage.py makemigrations
     ```
